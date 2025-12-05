@@ -3,7 +3,6 @@ import java.util.*;
 public class dhanusiyasri_Bridge_Crossing_Challenge {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
-        StringBuilder sb = new StringBuilder();
         String line = sc.nextLine();
         ArrayList<Integer> stones = new ArrayList<>();
         for (String s : line.split(",")) {
@@ -19,7 +18,6 @@ public class dhanusiyasri_Bridge_Crossing_Challenge {
         }
         System.out.println(result);
         sc.close();
-        
     }
 }
 //Note:
