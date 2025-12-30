@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "dhanusiyasri_first_non_repeating_character",
+      "request": "launch",
+      "mainClass": "dhanusiyasri_first_non_repeating_character",
+      "projectName": "A-December-Of-Algorithms-2025_346f79fe"
+    },
+    {
+      "type": "java",
+      "name": "dhanusiyasri_efficient_parcel_sorting",
+      "request": "launch",
+      "mainClass": "dhanusiyasri_efficient_parcel_sorting",
+      "projectName": "A-December-Of-Algorithms-2025_346f79fe"
+    },
+    {
+      "type": "java",
+      "name": "dhanusiyasri_tower_visibility_challenge",
+      "request": "launch",
+      "mainClass": "dhanusiyasri_tower_visibility_challenge",
+      "projectName": "A-December-Of-Algorithms-2025_346f79fe"
+    },
+    {
+      "type": "java",
+      "name": "dhanusiyasri_mirror_necklace_check",
+      "request": "launch",
+      "mainClass": "dhanusiyasri_mirror_necklace_check",
+      "projectName": "A-December-Of-Algorithms-2025_346f79fe"
+    },
+    {
+      "type": "java",
+      "name": "dhanusiyasri_treasure_trail_adjustment",
+      "request": "launch",
+      "mainClass": "dhanusiyasri_treasure_trail_adjustment",
+      "projectName": "A-December-Of-Algorithms-2025_346f79fe"
+    },
+    {
+      "type": "java",
+      "name": "dhanusiyasri_royal_family_seating",
+      "request": "launch",
+      "mainClass": "dhanusiyasri_royal_family_seating",
+      "projectName": "A-December-Of-Algorithms-2025_346f79fe"
+    },
+    {
+      "type": "java",
       "name": "dhanusiyasri_the_missing_positive_element",
       "request": "launch",
       "mainClass": "dhanusiyasri_the_missing_positive_element",
